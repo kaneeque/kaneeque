@@ -1,9 +1,5 @@
-# Hi, I'm Aneeque 🐦‍🔥🚒  
-🚀 Full Stack Developer | Problem Solver | Tech Enthusiast  
-
-![Profile Views](https://komarev.com/ghpvc/?username=kaneeque&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/kaneeque?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/kaneeque?style=social)  
+# Hi, I'm Aneeque Ahmed
+**Full Stack Developer | Problem Solver | Tech Enthusiast**
 
 ---
 
@@ -12,65 +8,64 @@
 - 💻 Skilled in **Frontend & Backend** development  
 - 🌱 Currently sharpening skills in **React, Node.js, Java, Python, and Data Science basics**  
 - 🎯 Goal: Deliver **clean, maintainable, and professional code**  
-- ⚡ Fun fact: I enjoy solving **logical puzzles & reasoning challenges**  
+- ⚡ Fun fact: I enjoy solving **logical puzzles & reasoning challenges**
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 🚀 Featured Projects  
-
-### 🔥 [Leather Shoe Website](https://github.com/kaneeque/leather-shoes)
-Professional, responsive, and SEO-optimized e-commerce website for premium shoes.  
-
-### 🍲 [Ambur Bandaari Biryani Website](https://github.com/amburbandaaribiryani/portfolio)  
-Client project with React, deployed on Netlify.  
-
-### 📊 [Interactive Dashboard](https://github.com/kaneeque/dashboard-app)  
-Real-time analytics dashboard with backend integrations.  
-
-👉 Check out more pinned repos below 👇  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+## 🚀 Featured Project  
 
-![Aneeque's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaneeque&show_icons=true&theme=tokyonight)  
-![Top Languages](https://img.shields.io/github-readme-stats/top-langs/?username=kaneeque&layout=compact&theme=tokyonight)  
-
+### 🍲 [Ambur Bandaari Biryani Website](https://amburbandaaribiryani.in)
+A modern, responsive client project.
 ---
 
-## 📬 Connect with Me  
+## 📬 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/aneeque-ahmed-86a164214
-)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yaneeque.in)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaneeque@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aneeque-ahmed-86a164214">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aneeque.in">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:kaneeque@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
